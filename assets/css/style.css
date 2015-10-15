@@ -1,0 +1,24 @@
+body {
+  background-color: #2B2C24; 
+  padding: 0;
+}
+
+h1 {
+	margin: 0;
+}
+
+p {
+  color: #777;
+  margin-bottom: 30px;	
+}
+
+.content {
+  text-align: center;
+  position: relative;
+}
+
+.footer {
+  text-align: center;
+  position: relative;
+  bottom: -60px;
+}
